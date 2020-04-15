@@ -1,0 +1,2 @@
+# proiectJava
+Aplicatia gestioneaza datele despre un concurs de atletism. Dupa ce adminul se logeaza apare fereastra cu cele 2 tabele(unul in care sunt prezente toate datele actuale, iar celalalt unde vor fi afisate datele filtrate in urma cautarii in functie de varsta si probele dorite a fi vizualizate). De asemenea in partea stanga este prezenta o gestiune a numarului de concurenti conrespunzator fiecarei probe. La adaugare adminul va scrie varsta concurentului iar in urma numarului vor aparea variantele de probe corespunzatoare varstei.
